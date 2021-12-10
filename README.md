@@ -7,10 +7,10 @@ To give a brief itroduction of this project you can refer to the description bel
 
 ***
 ### Description
-This is a group project to check whether the machines working have an abnormal sound being produced and need maintenance.
-We have implemented classification models that we learnt in our BeCode Machine learning module.
+This is a solo project to label the machines as normal and abnormal using the clustering models.
+We have implemented clustering models that we learnt in our BeCode Machine learning module.
 
-We tried to use different models for each machine and arrive at a good machine learning model that predicts the abnormality of a machine using the sound wave given as input.
+We tried to use different models for each machine and arrive at a good machine learning model that predicts the labelling of a sound wave- whether it is normal or abnormal.
 
 ***
 ### Installation
@@ -34,10 +34,12 @@ To install all these libraries do the folling steps:
 ***
 ### Repo Architecture
 
+Consists of all the clustering models for each machine as a jupyter notebook.
+Also the datasets for all machines with all the features are included in the dataset folder.
 
 #### requirements.txt 
 
-- Gives all the required libraries to run thiss code.
+- Gives all the required libraries to run this code.
 
 ***
 ### Usage
@@ -60,34 +62,26 @@ This documentation was quite helpful in understanding the data. https://medium.c
 
 ***
 ### Contributors
-This project is worked-out by the following team:
-
-- [Arfameher](https://github.com/Arfameher)                                                                                    
-- [Ujjwal Kandel](https://github.com/UjjwalKandel2000) 
-If you wish to contribute to this repo, you are Welcome!
+There are no contributors as of now, this is a solo project. If you wish to contribute to this repo, you are Welcome!
 You can clone this repository and create a new branch and push your changes.
 
 ***
 ### Timeline
-Nov - Dec 2021
+Dec 2021
 
-Time limit: 1 week --> 29/11/2021 - 3/12/2021 
+Time limit: 3 days --> 8/12/2021 - 10/12/2021 
 
-This is a group project given to us at [BeCode](https://becode.org/) after completion of our study material related to Machine Learning models. I have used `pandas`, `numpy`, `librosa`, `pickle` and `scikit learn`.
-The time that we took to finish this project was a week. If given more time we could improve our model and take input from the user and predict if abnormal or not.
+This is a solo project given to us at [BeCode](https://becode.org/) after completion of our study material related to data science libraries. I have used `pandas`, `numpy`, `matplotlib` ad `librosa`
+The time that I took to finish this project was 3 days as we had done a part of this project earlier as a team.
+Link to the other repository is here 
+https://github.com/UjjwalKandel2000/Machine-conditions-monitoring
 
 ***
-### Personal Situation
-This is a group project given to us at [BeCode](https://becode.org/)
+### Personaal Situation
+This is a personal project given to me at [BeCode](https://becode.org/)
+I am currently aspiring to be a Data Scientist. This is to develop a clustering model for all the machines to label the sounds.
 
-Here is how you can contact us :
+Here is how you can contact me :
 
-LinkedIn : [Arfa Meher](https://www.linkedin.com/in/arfa-meher/)
-
-[Ujjwal Kandel](https://www.linkedin.com/in/ujjwal-kandel-10743a1bb/)
-
-Email : 
-
-arfaameher@outlook.com
-
-ujjwalkandel2000@gmail.com
+LinkedIn : [Arfameher](https://www.linkedin.com/in/arfa-meher/)  
+Email : arfaameher@outlook.com
