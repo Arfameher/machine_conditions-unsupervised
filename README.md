@@ -50,11 +50,10 @@ Also the datasets for all machines with all the features are included in the dat
 
 ***
 ### Visuals
-![Clustering PUMP machine using K-means algorithm](x-special/nautilus-clipboard
-copy
-file:///home/arfa/Desktop/Screenshot%20from%202021-12-10%2015-26-27.png
+![Clustering PUMP machine using K-means algorithm](https://github.com/Arfameher/machine_conditions-unsupervised/blob/main/images/clustering_pump_kmeans.png
 )
 
+![Clustering PUMP machine using DBSCAN algorithm](https://github.com/Arfameher/machine_conditions-unsupervised/blob/main/images/clustering_pump_DBSCAN.png)
 
 ***
 ### References
