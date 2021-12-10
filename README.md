@@ -1,4 +1,4 @@
-# Machine-conditions-monitoring
+# Machine-conditions-monitoring -- Unsupervised 
 To give a brief itroduction of this project you can refer to the description below.
 - `Deployment strategy` :
   - GitHub page
@@ -50,6 +50,11 @@ Also the datasets for all machines with all the features are included in the dat
 
 ***
 ### Visuals
+![Clustering PUMP machine using K-means algorithm](x-special/nautilus-clipboard
+copy
+file:///home/arfa/Desktop/Screenshot%20from%202021-12-10%2015-26-27.png
+)
+
 
 ***
 ### References
